@@ -14,4 +14,4 @@ All material will be in Jupyter notebooks containing exercises with detailed sol
 > hello
 :clipboard:
 
-[googster](google.com)
+[googster](http://www.google.com)
